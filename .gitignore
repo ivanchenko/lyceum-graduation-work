@@ -1,3 +1,5 @@
 .vs/
 graduation-work/bin/
 graduation-work/obj/
+*.suo
+*.v12.suo
